@@ -2,6 +2,8 @@
 Team and repository tags
 ========================
 
+This is a test for a pull request
+
 .. image:: https://governance.openstack.org/tc/badges/kolla-ansible.svg
     :target: https://governance.openstack.org/tc/reference/tags/index.html
 
